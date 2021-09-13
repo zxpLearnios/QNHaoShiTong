@@ -1,0 +1,16 @@
+PODS:
+  - QNHaoShiTong (0.1.0)
+
+DEPENDENCIES:
+  - QNHaoShiTong (from `../`)
+
+EXTERNAL SOURCES:
+  QNHaoShiTong:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QNHaoShiTong: da97f01449d955cef3f9118e4455fd278dada0b7
+
+PODFILE CHECKSUM: 08d7429854c34c1d50c66047c34b401ab7b014d0
+
+COCOAPODS: 1.10.1

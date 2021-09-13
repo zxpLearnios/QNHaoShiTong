@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'QNHaoShiTong_Example' do
+  pod 'QNHaoShiTong', :path => '../'
+
+  target 'QNHaoShiTong_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

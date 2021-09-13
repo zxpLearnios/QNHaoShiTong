@@ -1,0 +1,6 @@
+framework module QNHaoShiTong {
+  umbrella header "QNHaoShiTong-umbrella.h"
+
+  export *
+  module * { export * }
+}

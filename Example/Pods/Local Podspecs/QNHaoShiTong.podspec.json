@@ -1,0 +1,22 @@
+{
+  "name": "QNHaoShiTong",
+  "version": "0.1.0",
+  "summary": "A short description of QNHaoShiTong.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/张净南/QNHaoShiTong",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "张净南": "1753970532@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/张净南/QNHaoShiTong.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "QNHaoShiTong/Classes/**/*"
+}
