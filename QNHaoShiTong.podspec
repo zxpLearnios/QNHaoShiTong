@@ -8,11 +8,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/zxpLearnios/QNHaoShiTong'
+  s.homepage         = 'git@github.com:zxpLearnios/QNHaoShiTong'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'zxpLearnios' => '1971730462@qq.com' }
-  s.source           = { :git => 'https://github.com/zxpLearnios/QNHaoShiTong.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:zxpLearnios/QNHaoShiTong.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '10.0'
 
